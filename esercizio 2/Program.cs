@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Esercizio 2");
 
-            string email = "conti.davide@francehttisalviani.net";
+            string email = "conti.davide@franchettisalviani.net";
 
             int l = email.Length;
             int chiocciola = email.IndexOf("@");
